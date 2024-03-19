@@ -2,10 +2,22 @@
 Hello, I'm Özkan Ceyhan,<br><br>A Junior Full Stack Web Developer.<br>I'm proficient in English, Turkish, and have a basic understanding of German.<br>In my free time, I enjoy mountain biking and playing chess.<br>Additionally, I used to be an amateur boxer for six years.<br>Passionate about coding and always eager to learn and grow in the world of web development! 👨‍💻<br>
 
 
-## Connect with me  
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ozthereader) 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=researcher0619&label=Profile%20views&color=0e75b6&style=flat" alt="researcher0619" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=researcher0619" alt="researcher0619" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ozkanceyhan3419/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ozkanceyhan3419/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ozkan_ceyhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ozkan_ceyhan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/researcher0619/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/researcher0619/" height="30" width="40" /></a>
+</p>
+
+<br>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=researcher0619&" alt="researcher0619" /></p>
+
 
 
 
