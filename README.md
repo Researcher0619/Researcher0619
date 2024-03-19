@@ -4,7 +4,7 @@ Hello, I'm Özkan Ceyhan,<br><br>A Junior Full Stack Web Developer.<br>I'm profi
 
 ## Connect with me  
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ozthereader) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/947274268503318548) 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
 
