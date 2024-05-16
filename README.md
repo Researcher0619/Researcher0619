@@ -14,7 +14,7 @@ Hello, I'm Özkan Ceyhan,<br><br>A Junior Full Stack Web Developer.<br>I'm profi
     <a href="https://www.hackerrank.com/profile/ozkan_ceyhan" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ozkan_ceyhan" height="30" width="40" />
     </a>
-    <a href="https://www.leetcode.com/https://leetcode.com/researcher0619/" target="blank">
+    <a href="https://leetcode.com/u/Researcher0619/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/researcher0619/" height="30" width="40" />
     </a>
     <a href="https://discord.gg/ozthereader" target="blank">
