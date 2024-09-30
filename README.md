@@ -29,7 +29,7 @@ Hello, I'm Özkan Ceyhan,<br><br>A Junior Full Stack Web Developer.<br>I'm profi
 <br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=researcher0619&" alt="researcher0619" /></p>
+
 
 
 
