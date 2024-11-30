@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Özkan Ceyhan,<br><br>A Junior Full Stack Web Developer.<br>I'm proficient in English, Turkish, and have a basic understanding of German.<br>In my free time, I enjoy mountain biking and playing chess.<br>Additionally, I used to be an amateur boxer for six years.<br>Passionate about coding and always eager to learn and grow in the world of web development! 👨‍💻<br>
+Hello, I'm Özkan Ceyhan,<br><br>A Software Developer.<br>I'm proficient in English, Turkish, and have a basic understanding of German.<br>In my free time, I enjoy mountain biking and playing chess.<br>Additionally, I used to be an amateur boxer for six years.<br>Passionate about coding and always eager to learn and grow in the world of web development! 👨‍💻<br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=researcher0619&label=Profile%20views&color=0e75b6&style=flat" alt="researcher0619" /> </p>
